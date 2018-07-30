@@ -1,0 +1,14 @@
+{
+  "author": "ZenGround0",
+  "bugs": {
+    "url": "https://github.com/gxed/go_rng"
+  },
+  "gx": {},
+  "gxVersion": "0.12.1",
+  "language": "go",
+  "license": "",
+  "name": "go_rng",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "0.0.0"
+}
+
